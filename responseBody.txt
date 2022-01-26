@@ -19,3 +19,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 			  (use "git add ..." to update what will be committed)
  							 (use "git restore ..." to discard changes in working directory)
+
+GITHUB_FIRST_BRANCHGITHUB_FIRST_BRANCHGITHUB_FIRST_BRANCHGITHUB_FIRST_BRANCHGITHUB_FIRST_BRANCHGITHUB_FIRST_BRANCHGITHUB_FIRST_BRANCH
